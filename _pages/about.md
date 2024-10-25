@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at [IIIS](https://iiis.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). I obtained my B.S in Computer Science from Tsinghua Univerisy.My research interest includes computer vision, machine learning, and information design. 
+I am a research assistant at [IIIS](https://iiis.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). I obtained my B.S in Computer Science from Tsinghua Univerisy. My research interest includes computer vision, machine learning, and information design.
 
 You can find my CV here: [Junjie Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
